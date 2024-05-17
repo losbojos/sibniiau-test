@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.bcafe8dd.css",
-    "main.js": "/static/js/main.7d2be635.js",
-    "static/js/453.4b9e4495.chunk.js": "/static/js/453.4b9e4495.chunk.js",
-    "index.html": "/index.html",
-    "main.bcafe8dd.css.map": "/static/css/main.bcafe8dd.css.map",
-    "main.7d2be635.js.map": "/static/js/main.7d2be635.js.map",
-    "453.4b9e4495.chunk.js.map": "/static/js/453.4b9e4495.chunk.js.map"
+    "main.css": "/sibniiau-test/static/css/main.bcafe8dd.css",
+    "main.js": "/sibniiau-test/static/js/main.af119582.js",
+    "static/js/453.4b9e4495.chunk.js": "/sibniiau-test/static/js/453.4b9e4495.chunk.js",
+    "index.html": "/sibniiau-test/index.html",
+    "main.bcafe8dd.css.map": "/sibniiau-test/static/css/main.bcafe8dd.css.map",
+    "main.af119582.js.map": "/sibniiau-test/static/js/main.af119582.js.map",
+    "453.4b9e4495.chunk.js.map": "/sibniiau-test/static/js/453.4b9e4495.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bcafe8dd.css",
-    "static/js/main.7d2be635.js"
+    "static/js/main.af119582.js"
   ]
 }
